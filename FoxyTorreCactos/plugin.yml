@@ -1,0 +1,9 @@
+name: FoxyTorreCacto
+version: 1.0.0
+author: zBlackGamer
+main: pt.com.FoxyTorreCacto.Main
+depend: [PlotSquared]
+commands:
+  torrecacto:
+    aliases: [torrecactos] 
+    description: Enviar uma torre de cacto a um jogador.
